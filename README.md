@@ -2,19 +2,19 @@
 
 *El meu nom és **Adrián Del Cid Arrom**.Aquest es un repositori dels diferents moduls que es fa al **FP de Grau Mitja de Sistemes Microinformatics i Xarxes***
 
-## Enlace de mi repositorio para que lo podais compartir
+## Enllaç del meu repositori per que ho pugueu compartir
 (https://github.com/AdrIlUkE/Adrian-Del-Cid-Esliceu)
 
-### Modulos presentes en el repositorio
+### Moduls presents en el repositori
 
 **IPO**
 
-**Ingles**
+**Angles**
 
-**Montaje**
+**Muntaje**
 
 **Ofimatica**
 
-**Redes**
+**Xarxes**
 
-**Sistemas**
+**Sistemes**
